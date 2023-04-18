@@ -3,12 +3,13 @@
 
 Sistema de Ouvidoria, criado com Phyton, e integrando com banco de dados MySQL.
 
-
-<h2> Menu Pricipal : </h2>
-1 - Reclamações 
-2 - Elogios 
-3 - Sugestões 
-4 - Sair 
+<h2> Menu : </h2>
+<ol>
+  <li>Reclamações</li>
+  <li>Elogios</li>
+  <li>Sugestões</li>
+  <li>Sair</li>
+</ol>
 
 
 <h2> Funções : </h3> 
